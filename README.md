@@ -4,7 +4,7 @@
 </a>
 </h1>
 
-<h2 align="center">👋 Hi, I'm Oscar Jiménez, FullStack developer finishing university degree in Computer Engineering👨‍💻</h2>
+<h2 align="center">👋 Hi, I'm Oscar Jiménez, FullStack Engineer👨‍💻</h2>
 <div align=center>
 <code>
   <a href="https://www.linkedin.com/in/oscar-jimenez-hurtado/" title="LinkedIn Profile"><img width="30" src="images/linkedin.svg"><p>Oscar Jiménez</p</a>
